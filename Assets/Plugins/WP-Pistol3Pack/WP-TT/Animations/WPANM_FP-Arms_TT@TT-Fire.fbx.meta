@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 18830d397a0dbf5478922c24b639d5fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: root_tt
+    100002: TT_accessory
+    100004: TT_bullet
+    100006: TT_bullet 1
+    100008: TT_frame
+    100010: TT_hammer
+    100012: TT_hammer 1
+    100014: TT_lock
+    100016: TT_magazine
+    100018: TT_magazine 1
+    100020: TT_muzzle
+    100022: TT_root
+    100024: TT_shell
+    100026: TT_slide
+    100028: TT_slide 1
+    100030: TT_slidelock
+    100032: TT_trigger
+    100034: TT_trigger 1
+    100036: //RootNode
+    400000: root_tt
+    400002: TT_accessory
+    400004: TT_bullet
+    400006: TT_bullet 1
+    400008: TT_frame
+    400010: TT_hammer
+    400012: TT_hammer 1
+    400014: TT_lock
+    400016: TT_magazine
+    400018: TT_magazine 1
+    400020: TT_muzzle
+    400022: TT_root
+    400024: TT_shell
+    400026: TT_slide
+    400028: TT_slide 1
+    400030: TT_slidelock
+    400032: TT_trigger
+    400034: TT_trigger 1
+    400036: //RootNode
+    4300000: TT_frame
+    4300002: TT_bullet
+    4300004: TT_hammer
+    4300006: TT_magazine
+    4300008: TT_trigger
+    4300010: TT_lock
+    4300012: TT_slide
+    7400000: TT-Fire
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TT_bullet
+    13700002: TT_frame
+    13700004: TT_hammer
+    13700006: TT_lock
+    13700008: TT_magazine
+    13700010: TT_slide
+    13700012: TT_trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TT_Texture
+    second: {fileID: 2100000, guid: 8c44ba91f85f9e840a7e35fba219dbdc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TT-Fire
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root_tt
+        weight: 1
+      - path: TT_bullet
+        weight: 1
+      - path: TT_frame
+        weight: 1
+      - path: TT_hammer
+        weight: 1
+      - path: TT_lock
+        weight: 1
+      - path: TT_magazine
+        weight: 1
+      - path: TT_root
+        weight: 1
+      - path: TT_root/TT_accessory
+        weight: 1
+      - path: TT_root/TT_hammer 1
+        weight: 1
+      - path: TT_root/TT_magazine 1
+        weight: 1
+      - path: TT_root/TT_magazine 1/TT_bullet 1
+        weight: 1
+      - path: TT_root/TT_muzzle
+        weight: 1
+      - path: TT_root/TT_shell
+        weight: 1
+      - path: TT_root/TT_slide 1
+        weight: 1
+      - path: TT_root/TT_slidelock
+        weight: 1
+      - path: TT_root/TT_trigger 1
+        weight: 1
+      - path: TT_slide
+        weight: 1
+      - path: TT_trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

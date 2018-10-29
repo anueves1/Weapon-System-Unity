@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 46f74907c8490a746a99217af5b7ed8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: TT_accessory
+    100002: TT_bullet
+    100004: TT_bullet 1
+    100006: TT_frame
+    100008: TT_hammer
+    100010: TT_hammer 1
+    100012: TT_lock
+    100014: TT_magazine
+    100016: TT_magazine 1
+    100018: TT_muzzle
+    100020: TT_root
+    100022: TT_shell
+    100024: TT_slide
+    100026: TT_slide 1
+    100028: TT_slidelock
+    100030: TT_trigger
+    100032: TT_trigger 1
+    100034: //RootNode
+    400000: TT_accessory
+    400002: TT_bullet
+    400004: TT_bullet 1
+    400006: TT_frame
+    400008: TT_hammer
+    400010: TT_hammer 1
+    400012: TT_lock
+    400014: TT_magazine
+    400016: TT_magazine 1
+    400018: TT_muzzle
+    400020: TT_root
+    400022: TT_shell
+    400024: TT_slide
+    400026: TT_slide 1
+    400028: TT_slidelock
+    400030: TT_trigger
+    400032: TT_trigger 1
+    400034: //RootNode
+    4300000: TT_frame
+    4300002: TT_bullet
+    4300004: TT_hammer
+    4300006: TT_magazine
+    4300008: TT_trigger
+    4300010: TT_lock
+    4300012: TT_slide
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TT_bullet
+    13700002: TT_frame
+    13700004: TT_hammer
+    13700006: TT_lock
+    13700008: TT_magazine
+    13700010: TT_slide
+    13700012: TT_trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TT_Texture3
+    second: {fileID: 2100000, guid: debfa7c0e4f00434599ccc24f6eee02b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

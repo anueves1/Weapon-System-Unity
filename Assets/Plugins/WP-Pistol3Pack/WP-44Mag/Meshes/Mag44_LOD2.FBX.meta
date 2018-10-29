@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 364554b7ffc9632468a1172cf85fbc65
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mag44_accessory
+    100002: Mag44_arm
+    100004: Mag44_bullet1
+    100006: Mag44_bullet1_full
+    100008: Mag44_bullet2
+    100010: Mag44_bullet2_full
+    100012: Mag44_bullet3
+    100014: Mag44_bullet3_full
+    100016: Mag44_bullet4
+    100018: Mag44_bullet4_full
+    100020: Mag44_bullet5
+    100022: Mag44_bullet5_full
+    100024: Mag44_bullet6
+    100026: Mag44_bullet6_full
+    100028: Mag44_cylinder
+    100030: Mag44_hammer
+    100032: //RootNode
+    100034: Mag44_LOD2_arm
+    100036: Mag44_LOD2_bullet1_Empty
+    100038: Mag44_LOD2_bullet1_full
+    100040: Mag44_LOD2_bullet2_Empty
+    100042: Mag44_LOD2_bullet2_full
+    100044: Mag44_LOD2_bullet3_Empty
+    100046: Mag44_LOD2_bullet3_full
+    100048: Mag44_LOD2_bullet4_Empty
+    100050: Mag44_LOD2_bullet4_full
+    100052: Mag44_LOD2_bullet5_Empty
+    100054: Mag44_LOD2_bullet5_full
+    100056: Mag44_LOD2_bullet6_Empty
+    100058: Mag44_LOD2_bullet6_full
+    100060: Mag44_LOD2_cylinder
+    100062: Mag44_LOD2_frame
+    100064: Mag44_LOD2_hammer
+    100066: Mag44_LOD2_release
+    100068: Mag44_LOD2_trigger
+    100070: Mag44_muzzle
+    100072: Mag44_release
+    100074: Mag44_root
+    100076: Mag44_trigger
+    100078: rootCTRL
+    400000: Mag44_accessory
+    400002: Mag44_arm
+    400004: Mag44_bullet1
+    400006: Mag44_bullet1_full
+    400008: Mag44_bullet2
+    400010: Mag44_bullet2_full
+    400012: Mag44_bullet3
+    400014: Mag44_bullet3_full
+    400016: Mag44_bullet4
+    400018: Mag44_bullet4_full
+    400020: Mag44_bullet5
+    400022: Mag44_bullet5_full
+    400024: Mag44_bullet6
+    400026: Mag44_bullet6_full
+    400028: Mag44_cylinder
+    400030: Mag44_hammer
+    400032: //RootNode
+    400034: Mag44_LOD2_arm
+    400036: Mag44_LOD2_bullet1_Empty
+    400038: Mag44_LOD2_bullet1_full
+    400040: Mag44_LOD2_bullet2_Empty
+    400042: Mag44_LOD2_bullet2_full
+    400044: Mag44_LOD2_bullet3_Empty
+    400046: Mag44_LOD2_bullet3_full
+    400048: Mag44_LOD2_bullet4_Empty
+    400050: Mag44_LOD2_bullet4_full
+    400052: Mag44_LOD2_bullet5_Empty
+    400054: Mag44_LOD2_bullet5_full
+    400056: Mag44_LOD2_bullet6_Empty
+    400058: Mag44_LOD2_bullet6_full
+    400060: Mag44_LOD2_cylinder
+    400062: Mag44_LOD2_frame
+    400064: Mag44_LOD2_hammer
+    400066: Mag44_LOD2_release
+    400068: Mag44_LOD2_trigger
+    400070: Mag44_muzzle
+    400072: Mag44_release
+    400074: Mag44_root
+    400076: Mag44_trigger
+    400078: rootCTRL
+    4300000: Mag44_LOD2_frame
+    4300002: Mag44_LOD2_arm
+    4300004: Mag44_LOD2_cylinder
+    4300006: Mag44_LOD2_bullet5_Empty
+    4300008: Mag44_LOD2_bullet3_Empty
+    4300010: Mag44_LOD2_bullet4_Empty
+    4300012: Mag44_LOD2_bullet1_Empty
+    4300014: Mag44_LOD2_bullet2_Empty
+    4300016: Mag44_LOD2_bullet6_Empty
+    4300018: Mag44_LOD2_bullet5_full
+    4300020: Mag44_LOD2_bullet3_full
+    4300022: Mag44_LOD2_bullet4_full
+    4300024: Mag44_LOD2_bullet1_full
+    4300026: Mag44_LOD2_bullet2_full
+    4300028: Mag44_LOD2_bullet6_full
+    4300030: Mag44_LOD2_trigger
+    4300032: Mag44_LOD2_hammer
+    4300034: Mag44_LOD2_release
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mag44_LOD2_arm
+    13700002: Mag44_LOD2_bullet1_Empty
+    13700004: Mag44_LOD2_bullet1_full
+    13700006: Mag44_LOD2_bullet2_Empty
+    13700008: Mag44_LOD2_bullet2_full
+    13700010: Mag44_LOD2_bullet3_Empty
+    13700012: Mag44_LOD2_bullet3_full
+    13700014: Mag44_LOD2_bullet4_Empty
+    13700016: Mag44_LOD2_bullet4_full
+    13700018: Mag44_LOD2_bullet5_Empty
+    13700020: Mag44_LOD2_bullet5_full
+    13700022: Mag44_LOD2_bullet6_Empty
+    13700024: Mag44_LOD2_bullet6_full
+    13700026: Mag44_LOD2_cylinder
+    13700028: Mag44_LOD2_frame
+    13700030: Mag44_LOD2_hammer
+    13700032: Mag44_LOD2_release
+    13700034: Mag44_LOD2_trigger
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magnum44_texture2
+    second: {fileID: 2100000, guid: 20cc46e278b075d45a7d769e931ea97f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
